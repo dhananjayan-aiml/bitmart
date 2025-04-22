@@ -69,7 +69,7 @@ npm install
 npm run dev
 
 ```
-##backend/.env
+## backend/.env
 ```
 PORT=5000
 MONGODB_URI=mongodb+srv://your-db-uri
