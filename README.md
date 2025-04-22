@@ -1,11 +1,12 @@
-# Forever Full Stack (BitMart) 🛍️
+# E-Commerce full stack app (BitMart) 🛍️
 
 A full-stack e-commerce web application built with modern technologies for frontend, backend, and admin panel management.
 
 ## 📁 Project Structure
 
-
----
+backend/
+frontend/
+admin/
 
 ## ✨ Features
 
